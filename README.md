@@ -1,6 +1,6 @@
 # ENGINEERING STUDENTS PLACEMENT ANALYSIS - 2013 & 2014
 
-# Dataset Explanation: `collegePlace.xlsx`
+# Dataset Explanation: 
 
 This dataset provides information about college students and various factors that might influence their placement status. It includes demographic details, academic performance, internship experience, and other relevant aspects that help in understanding what contributes to a student's success in getting placed.
 
